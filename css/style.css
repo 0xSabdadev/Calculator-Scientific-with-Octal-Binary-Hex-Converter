@@ -1,0 +1,140 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(223, 221, 221);
+}
+
+.container {
+    width: 300px;
+    padding: 0px 10px;
+    margin: 130px auto;
+}
+
+.red {
+    color: #678;
+}
+
+table {
+    margin: 0px 5px 5px 5px;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    font-size: 22px;
+    background-color: rgba(235, 235, 235, 0.897);
+    color: rgba(83, 81, 81, 0.932);
+    border: 2px rgb(122, 122, 122) outset;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+}
+
+.top {
+    height: 30px;
+    background-color: #ff9029;
+    border-radius: 4px;
+    border: 1px rgb(245, 161, 83) outset;
+    color: #fff;
+    font-size: 16px;
+}
+
+#c {
+    height: 64px;
+    color: #fff;
+    font-weight: bold;
+}
+
+button:active {
+    background-color: rgb(206, 200, 203);
+    box-shadow: none;
+    padding-top: 4px;
+    outline: 1px solid rgb(146, 141, 146);
+    border: 3px rgb(179, 172, 179) inset;
+}
+
+.top:hover {
+    background-color: rgb(245, 161, 83);
+    box-shadow: inset 5px 5px 5px rgb(241, 159, 82), inset -5px -5px 5px rgb(238, 158, 78);
+}
+
+button:hover {
+    background-color: rgb(189, 181, 189);
+}
+
+.top:active {
+    background-color: rgb(245, 161, 83);
+    box-shadow: none;
+    padding-top: 4px;
+    outline: 1px solid rgb(231, 130, 48);
+    border: 3px rgb(238, 137, 42) inset;
+}
+
+#display-container {
+    border: 3px inset silver;
+    margin-bottom: 10px;
+}
+
+#h1,
+#display1 {
+    width: 260px;
+    height: 45px;
+    padding: 2px;
+    padding-top: 4px;
+    background-color: rgb(229, 241, 243);
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: right;
+    overflow: hidden;
+    font-weight: bold;
+    color: #245;
+    text-shadow: 2px 2px 1px #8ac;
+}
+
+#display1 {
+    font-size: 18px;
+}
+
+#h1 {
+    font-size: 24px;
+}
+
+.div {
+    border: 5px silver ridge;
+    border-radius: 10px;
+    margin: 0px 5px 5px 5px;
+    padding-top: 0px;
+    width: 286px;
+    background-color: rgb(33, 36, 37);
+    font-size: 11px;
+    color: white;
+}
+
+.w {
+    box-shadow: -10px 10px 10px silver;
+    border: 5px #6bc groove;
+    margin: 0px 5px 5px 5px;
+    border-radius: 10px;
+    padding-top: 0px;
+    font-size: 11px;
+    cursor: pointer;
+    width: 285px;
+    color: white;
+}
+}
+
+.disabled,
+.disabled:active,
+.disabled:hover {
+    padding-top: 0px;
+    background-color: #999;
+    box-shadow: 0px 0px 0px grey;
+    border: none;
+}
+
+sup {
+    font-size: .65em;
+}
