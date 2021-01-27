@@ -1,11 +1,26 @@
 # Calculator-Scientific-with-Octal-Binary-Hex-Converter
 
-<h2> Converter Preview </h2>
+## Cloning this repository
+
+To clone using HTTPS:
+```
+git clone https://github.com/sabdadev/Calculator-Scientific-with-Octal-Binary-Hex-Converter.git
+```
+Using SSH:
+```
+git clone git@github.com:sabdadev/Calculator-Scientific-with-Octal-Binary-Hex-Converter.git
+```
+Using GitHub CLI:
+```
+git clone gh repo clone sabdadev/Calculator-Scientific-with-Octal-Binary-Hex-Converter
+```
+## Preview
+### Converter Preview
 
 <img src="https://media.giphy.com/media/686jhobxjoUPkEeB85/giphy.gif">
-<br>
-<h2> Preview </h2>
+
+### Calculation Preview
 <img src="https://media.giphy.com/media/cXHvtZeXcqf8b0VYtb/giphy.gif">
-<br>
+# 
 <img src="https://media.giphy.com/media/KnJ3hRmEG6Qw3f2GDK/giphy.gif">
 
