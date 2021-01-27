@@ -21,6 +21,6 @@ git clone gh repo clone sabdadev/Calculator-Scientific-with-Octal-Binary-Hex-Con
 
 ### Calculation Preview
 <img src="https://media.giphy.com/media/cXHvtZeXcqf8b0VYtb/giphy.gif">
-# 
+
 <img src="https://media.giphy.com/media/KnJ3hRmEG6Qw3f2GDK/giphy.gif">
 
